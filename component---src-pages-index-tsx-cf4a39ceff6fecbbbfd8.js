@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkrev3al=self.webpackChunkrev3al||[]).push([[691],{7200:function(e,n,t){t.r(n),t.d(n,{Head:function(){return r}});var a=t(7294);n.default=function(){return a.createElement("h1",{className:"font-bold"},a.createElement("span",null,"Stay tuned for a brand new, awesome application!"))};var r=function(){return a.createElement("title",null,"Home Page")}}}]);
-//# sourceMappingURL=component---src-pages-index-tsx-cf4a39ceff6fecbbbfd8.js.map
