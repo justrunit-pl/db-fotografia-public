@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkrev3al=self.webpackChunkrev3al||[]).push([[691],{7200:function(e,n,t){t.r(n),t.d(n,{Head:function(){return u}});var l=t(7294),r=t(5271);n.default=function(){return l.createElement(l.Fragment,null,l.createElement(r.lj,null),l.createElement(r.NH,null))};var u=function(){return l.createElement("title",null,"Home Page")}}}]);
+//# sourceMappingURL=component---src-pages-index-tsx-28975979bee2c36cf13e.js.map
